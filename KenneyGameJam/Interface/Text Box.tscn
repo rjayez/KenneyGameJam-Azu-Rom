@@ -1,0 +1,97 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Interface/Theme/default_theme.tres" type="Theme" id=1]
+[ext_resource path="res://Assets/UI/uipack_fixed/PNG/red_button10.png" type="Texture" id=2]
+[ext_resource path="res://Assets/UI/Roboto/Roboto-Medium.ttf" type="DynamicFontData" id=3]
+[ext_resource path="res://Assets/UI/uipack_fixed/PNG/red_boxTick.png" type="Texture" id=4]
+
+[sub_resource type="DynamicFont" id=1]
+size = 26
+font_data = ExtResource( 3 )
+
+[node name="Text Box" type="NinePatchRect"]
+margin_right = 753.0
+margin_bottom = 135.0
+rect_min_size = Vector2( 753, 135 )
+theme = ExtResource( 1 )
+texture = ExtResource( 2 )
+patch_margin_left = 10
+patch_margin_top = 10
+patch_margin_right = 10
+patch_margin_bottom = 10
+
+[node name="CatchPhrase" type="Label" parent="."]
+margin_left = 9.56802
+margin_top = 10.1251
+margin_right = 227.568
+margin_bottom = 24.1251
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0.243137, 0.243137, 0.243137, 1 )
+text = "This is the object, you must find : "
+percent_visible = -0.0357143
+
+[node name="Hint" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 13.0
+margin_top = -83.0
+margin_right = 79.0
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 20, 20 )
+texture = ExtResource( 4 )
+expand = true
+
+[node name="Hint2" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 94.3525
+margin_top = -83.0
+margin_right = 160.352
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 20, 20 )
+texture = ExtResource( 4 )
+expand = true
+
+[node name="Hint3" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 177.624
+margin_top = -83.0
+margin_right = 243.624
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 20, 20 )
+texture = ExtResource( 4 )
+expand = true
+
+[node name="Hint4" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 261.663
+margin_top = -83.0
+margin_right = 327.663
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 20, 20 )
+texture = ExtResource( 4 )
+expand = true
+
+[node name="Hint5" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 349.924
+margin_top = -83.0
+margin_right = 415.924
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 20, 20 )
+texture = ExtResource( 4 )
+expand = true
+
+[node name="Hint6" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 437.05
+margin_top = -83.0
+margin_right = 503.05
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 20, 20 )
+texture = ExtResource( 4 )
+expand = true

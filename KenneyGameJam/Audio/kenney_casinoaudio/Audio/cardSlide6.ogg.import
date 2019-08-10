@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cardSlide6.ogg-2145d247c45f69db9761381bd86c7afb.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_casinoaudio/Audio/cardSlide6.ogg"
+dest_files=[ "res://.import/cardSlide6.ogg-2145d247c45f69db9761381bd86c7afb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

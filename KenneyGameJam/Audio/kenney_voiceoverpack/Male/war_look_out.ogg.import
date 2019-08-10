@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_look_out.ogg-7f7b54ab085033c4f3f3c719dccc3e13.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/war_look_out.ogg"
+dest_files=[ "res://.import/war_look_out.ogg-7f7b54ab085033c4f3f3c719dccc3e13.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

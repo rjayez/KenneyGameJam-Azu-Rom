@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/time_over.ogg-bd72aadbef8a166380c6b6dfc955deb1.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/time_over.ogg"
+dest_files=[ "res://.import/time_over.ogg-bd72aadbef8a166380c6b6dfc955deb1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

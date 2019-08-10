@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/level_up.ogg-949e967d18f880241e93668008d9598d.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/level_up.ogg"
+dest_files=[ "res://.import/level_up.ogg-949e967d18f880241e93668008d9598d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

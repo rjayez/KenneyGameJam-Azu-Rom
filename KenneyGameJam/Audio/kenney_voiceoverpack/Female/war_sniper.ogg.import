@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_sniper.ogg-1b48cbc25bc6b8a8f7986b18667c09ab.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/war_sniper.ogg"
+dest_files=[ "res://.import/war_sniper.ogg-1b48cbc25bc6b8a8f7986b18667c09ab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

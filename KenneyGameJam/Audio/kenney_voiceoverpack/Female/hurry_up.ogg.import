@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hurry_up.ogg-a63e276a78cee9d52e6c2e362c1713e7.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/hurry_up.ogg"
+dest_files=[ "res://.import/hurry_up.ogg-a63e276a78cee9d52e6c2e362c1713e7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

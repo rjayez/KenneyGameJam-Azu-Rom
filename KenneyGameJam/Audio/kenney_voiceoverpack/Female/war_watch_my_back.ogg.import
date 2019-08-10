@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_watch_my_back.ogg-ef43a06ba0da5912a58421b635bf7104.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/war_watch_my_back.ogg"
+dest_files=[ "res://.import/war_watch_my_back.ogg-ef43a06ba0da5912a58421b635bf7104.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

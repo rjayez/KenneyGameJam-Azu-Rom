@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/objective_achieved.ogg-7f27bdf844ae30b3f47bda6615363969.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/objective_achieved.ogg"
+dest_files=[ "res://.import/objective_achieved.ogg-7f27bdf844ae30b3f47bda6615363969.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

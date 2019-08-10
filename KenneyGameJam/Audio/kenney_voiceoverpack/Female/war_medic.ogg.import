@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_medic.ogg-d5e77b316713084b5c2936b8ff57bae7.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/war_medic.ogg"
+dest_files=[ "res://.import/war_medic.ogg-d5e77b316713084b5c2936b8ff57bae7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

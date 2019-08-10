@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cardFan2.ogg-da5b6664a46001732ec09f7194c17c94.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_casinoaudio/Audio/cardFan2.ogg"
+dest_files=[ "res://.import/cardFan2.ogg-da5b6664a46001732ec09f7194c17c94.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

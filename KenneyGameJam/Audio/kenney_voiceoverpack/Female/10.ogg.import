@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/10.ogg-9a899a5ff96c0ce4dd325d2b1e3cfd3f.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/10.ogg"
+dest_files=[ "res://.import/10.ogg-9a899a5ff96c0ce4dd325d2b1e3cfd3f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

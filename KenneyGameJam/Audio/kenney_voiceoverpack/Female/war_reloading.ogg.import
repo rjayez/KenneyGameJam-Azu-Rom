@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_reloading.ogg-dc2221b4ee31607f2c542bfcc73acf3c.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/war_reloading.ogg"
+dest_files=[ "res://.import/war_reloading.ogg-dc2221b4ee31607f2c542bfcc73acf3c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

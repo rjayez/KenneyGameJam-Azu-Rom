@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_cover_me.ogg-51fddc2113b8098aeae0cc9bb11679ac.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/war_cover_me.ogg"
+dest_files=[ "res://.import/war_cover_me.ogg-51fddc2113b8098aeae0cc9bb11679ac.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

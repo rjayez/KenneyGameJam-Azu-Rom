@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/congratulations.ogg-f44fcfbb1a589eb7d41dc16f5cc80d42.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Female/congratulations.ogg"
+dest_files=[ "res://.import/congratulations.ogg-f44fcfbb1a589eb7d41dc16f5cc80d42.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

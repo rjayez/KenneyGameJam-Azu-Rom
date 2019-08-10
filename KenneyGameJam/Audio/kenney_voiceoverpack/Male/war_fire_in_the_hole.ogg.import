@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_fire_in_the_hole.ogg-977206d134cdfa0f9a2df9b3025cc290.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/war_fire_in_the_hole.ogg"
+dest_files=[ "res://.import/war_fire_in_the_hole.ogg-977206d134cdfa0f9a2df9b3025cc290.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

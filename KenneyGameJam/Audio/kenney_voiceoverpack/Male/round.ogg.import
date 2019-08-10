@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/round.ogg-e751c291bcb2a3032d3e9d39fa485a70.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/round.ogg"
+dest_files=[ "res://.import/round.ogg-e751c291bcb2a3032d3e9d39fa485a70.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/chipsHandle1.ogg-0e26d04f19ac70e5729ce5589397c62e.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_casinoaudio/Audio/chipsHandle1.ogg"
+dest_files=[ "res://.import/chipsHandle1.ogg-0e26d04f19ac70e5729ce5589397c62e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

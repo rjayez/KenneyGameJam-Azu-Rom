@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_call_for_backup.ogg-69e35c4083d8387fa87c87ea8ab286f7.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/war_call_for_backup.ogg"
+dest_files=[ "res://.import/war_call_for_backup.ogg-69e35c4083d8387fa87c87ea8ab286f7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

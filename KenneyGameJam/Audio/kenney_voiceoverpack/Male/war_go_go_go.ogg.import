@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_go_go_go.ogg-a9c65fc4086763979b20b0be2c06828d.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/war_go_go_go.ogg"
+dest_files=[ "res://.import/war_go_go_go.ogg-a9c65fc4086763979b20b0be2c06828d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

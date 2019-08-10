@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/new_highscore.ogg-a08c26812e1b6ebf476d5fbd7ff4c6b0.oggstr"
+
+[deps]
+
+source_file="res://Audio/kenney_voiceoverpack/Male/new_highscore.ogg"
+dest_files=[ "res://.import/new_highscore.ogg-a08c26812e1b6ebf476d5fbd7ff4c6b0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
